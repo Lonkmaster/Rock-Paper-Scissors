@@ -1,0 +1,15 @@
+
+.container {
+    background-color: grey;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 25px;
+    text-align: center;
+}
+.text-color {
+    color: white;
+}
+
+button {
+    padding: 15px;
+}
